@@ -26,6 +26,8 @@ const ProtectedRoute = ({ children }) => {
 };
 
 const App = () => {
+
+  <h1>Hello</h1>
   const {
     transactions,
     expenses,
